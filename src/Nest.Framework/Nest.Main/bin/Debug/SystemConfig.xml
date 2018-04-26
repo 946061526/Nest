@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SystemConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SysInfo>
+    <name>tetse</name>
+    <ver>123</ver>
+  </SysInfo>
+  <DbInfo>
+    <type>mssql</type>
+    <server>24423</server>
+    <port>243</port>
+    <uid>sdff</uid>
+    <pwd>asdfd</pwd>
+    <dbname>sdfd</dbname>
+  </DbInfo>
+</SystemConfig>

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.SqlSugarDao.dll
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.SqlSugarDao.pdb
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.dll
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.pdb

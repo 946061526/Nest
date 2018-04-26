@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Utility\bin\Debug\Nest.Framework.Utility.dll
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Utility\bin\Debug\Nest.Framework.Utility.pdb
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Utility\obj\Debug\Nest.Framework.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Utility\obj\Debug\Nest.Framework.Utility.dll
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Utility\obj\Debug\Nest.Framework.Utility.pdb
