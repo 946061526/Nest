@@ -32,7 +32,7 @@ namespace Nest.Framework.Core
 
         private DateTime mRunTime = DateTime.Now;
 
-        private GridHitInfo downHitInfo = null;
+        //private GridHitInfo downHitInfo = null;
 
         private ProgressBarControl ProgressBar;
 
@@ -161,9 +161,11 @@ namespace Nest.Framework.Core
                 this.mRunTime = DateTime.Now;
                 this.SystemApplication.BarButtonStop.Enabled = true;
                 this.BarStop.Enabled = true;
-                this.TheardTimer = new System.Windows.Forms.Timer();
-                this.TheardTimer.Enabled = true;
-                this.TheardTimer.Interval = 1000;
+                this.TheardTimer = new System.Windows.Forms.Timer
+                {
+                    Enabled = true,
+                    Interval = 1000
+                };
                 this.TheardTimer.Tick += new EventHandler(this.TheardTimer_Tick);
                 this.StatusState = "正在读取数据...";
                 this.SystemApplication.StatusState = "正在读取数据...";
@@ -250,8 +252,9 @@ namespace Nest.Framework.Core
                 this.BarItemTime.Caption = "耗时:" + this.Cost_Time.ToString("f2") + "s";
                 this.SystemApplication.BarItem_Time.Caption = "耗时:" + this.Cost_Time.ToString("f2") + "s";
             }
-            catch (Exception var_1_CE)
+            catch (Exception ex)
             {
+                throw new Exception("DockBar.AbortThread：" + ex.Message);
             }
             finally
             {
@@ -651,10 +654,10 @@ namespace Nest.Framework.Core
 
         private void BarStop_ItemClick(object sender, ItemClickEventArgs e)
         {
-            this.stopClick();
+            this.StopClick();
         }
 
-        public void stopClick()
+        public void StopClick()
         {
             if (this.IsNowRun)
             {

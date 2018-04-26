@@ -100,8 +100,9 @@ namespace Nest.Framework.Core
                 });
                 this.newThread.Abort();
             }
-            catch (Exception var_1_47)
+            catch (Exception ex)
             {
+                throw new Exception("NewForm.AbortThread：" + ex.Message);
             }
             finally
             {

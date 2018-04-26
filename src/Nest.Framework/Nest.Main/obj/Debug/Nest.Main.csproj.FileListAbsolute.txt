@@ -1,12 +1,6 @@
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\Nest.Main.exe.config
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\Nest.Main.exe
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\Nest.Main.pdb
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.Properties.Resources.resources
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.csproj.GenerateResource.Cache
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.exe
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.pdb
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\DevExpress.BonusSkins.v16.2.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\DevExpress.Data.v16.2.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\DevExpress.Utils.v16.2.dll
@@ -85,5 +79,11 @@ C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\de
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.MainApp.resources
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.Properties.Resources.resources
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.exe.licenses
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.exe
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\obj\Debug\Nest.Main.pdb

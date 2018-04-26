@@ -1,5 +1,3 @@
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\bin\Debug\Nest.Framework.Test.UI.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\bin\Debug\Nest.Framework.Test.UI.pdb
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\bin\Debug\DevExpress.Data.v16.2.dll
@@ -42,7 +40,9 @@ C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\bin\Debug\DevExpress.Office.v16.2.Core.xml
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.dll
-C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.pdb
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\Nest.Framework.Test.UI.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Main\bin\Debug\Nest.Framework.Test.UI.pdb
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.dll
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.Test.UI\obj\Debug\Nest.Framework.Test.UI.pdb

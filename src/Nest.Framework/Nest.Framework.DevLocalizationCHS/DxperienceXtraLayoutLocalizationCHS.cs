@@ -8,8 +8,8 @@ namespace Nest.Framework.DevLocalizationCHS
         {
             switch (id)
             {
-                case LayoutStringId.CustomizationParentName:
-                    return "自定义";
+                //case LayoutStringId.CustomizationParentName:
+                //    return "自定义";
                 case LayoutStringId.DefaultItemText:
                     return "项目";
                 case LayoutStringId.DefaultActionText:

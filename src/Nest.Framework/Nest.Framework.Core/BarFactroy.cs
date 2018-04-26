@@ -66,7 +66,7 @@ namespace Nest.Framework.Core
         private void BarButtonStop_ItemClick(object sender, ItemClickEventArgs e)
         {
             DockBar dockBar = (DockBar)this.SystemApplicaiton.ActiveForm;
-            dockBar.stopClick();
+            dockBar.StopClick();
         }
 
         private void BarButton_ItemClick(object sender, ItemClickEventArgs e)
