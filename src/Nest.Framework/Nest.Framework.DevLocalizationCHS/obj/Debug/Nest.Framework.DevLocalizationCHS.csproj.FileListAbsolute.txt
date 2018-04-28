@@ -119,3 +119,4 @@ C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.DevLoca
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.DevLocalizationCHS\obj\Debug\Nest.Framework.DevLocalizationCHS.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.DevLocalizationCHS\obj\Debug\Nest.Framework.DevLocalizationCHS.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.DevLocalizationCHS\obj\Debug\Nest.Framework.DevLocalizationCHS.pdb
+C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.DevLocalizationCHS\obj\Debug\Nest.Framework.DevLocalizationCHS.csprojResolveAssemblyReference.cache
