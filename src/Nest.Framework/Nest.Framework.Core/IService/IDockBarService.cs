@@ -4,9 +4,9 @@
     {
         void AddDockBar(DockBar dockBar);
 
-        DockBar IsNowActive();
+        DockBar NowActiveForm();
 
-        void IsActive(DockBar dockBar);
+        void ActivateDockbar(DockBar dockBar);
 
         void AddDockBar(string dockBarName, NewForm dockBar, DockState dockState);
     }

@@ -30,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Charts.v16.2.Core, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\dll\dev16.25\DevExpress.Charts.v16.2.Core.dll</HintPath>
+    </Reference>
     <Reference Include="DevExpress.Data.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\dll\dev16.25\DevExpress.Data.v16.2.dll</HintPath>
@@ -46,6 +50,7 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\dll\dev16.25\DevExpress.XtraCharts.v16.2.dll</HintPath>
     </Reference>
+    <Reference Include="DevExpress.XtraCharts.v16.2.UI, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraEditors.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\dll\dev16.25\DevExpress.XtraEditors.v16.2.dll</HintPath>
@@ -69,6 +74,9 @@
     <Reference Include="DevExpress.XtraWizard.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\dll\dev16.25\DevExpress.XtraWizard.v16.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Nest.Controls.Dev162">
+      <HintPath>..\..\..\dll\Nest.Controls.Dev162.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -105,6 +113,12 @@
       <Project>{b647def3-0abd-4e7d-bab5-8e3948fc9ed5}</Project>
       <Name>Nest.Framework.Utility</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Test1.resx">
+      <DependentUpon>Test1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

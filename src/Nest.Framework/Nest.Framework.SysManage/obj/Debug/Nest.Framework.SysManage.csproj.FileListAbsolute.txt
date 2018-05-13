@@ -4,3 +4,9 @@ C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SysMana
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SysManage\obj\Debug\Nest.Framework.SysManage.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SysManage\obj\Debug\Nest.Framework.SysManage.pdb
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SysManage\obj\Debug\Nest.Framework.SysManage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SysManage\bin\Debug\Nest.Framework.SysManage.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SysManage\bin\Debug\Nest.Framework.SysManage.pdb
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SysManage\obj\Debug\Nest.Framework.SysManage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SysManage\obj\Debug\Nest.Framework.SysManage.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SysManage\obj\Debug\Nest.Framework.SysManage.pdb
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SysManage\obj\Debug\Nest.Framework.SysManage.csprojResolveAssemblyReference.cache

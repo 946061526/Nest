@@ -4,3 +4,16 @@ C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSuga
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.dll
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.pdb
 C:\Users\Administrator\Desktop\yz\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.SqlSugarDao.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.SqlSugarDao.pdb
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.pdb
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\obj\Debug\Nest.Framework.SqlSugarDao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\SqlSugar.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.SysManage.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.SysManage.pdb
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.Utility.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Autofac.dll
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Nest.Framework.Utility.pdb
+C:\Users\Administrator\Desktop\WF.Framwork\Nest\src\Nest.Framework\Nest.Framework.SqlSugarDao\bin\Debug\Autofac.xml

@@ -95,8 +95,7 @@ namespace Nest.Framework.Core
                     return result;
                 }
             }
-            result = null;
-            return result;
+            return null;
         }
     }
 }

@@ -116,12 +116,12 @@ namespace Nest.Framework.Core
             return flag;
         }
 
-        public DockBar IsNowActive()
+        public DockBar NowActiveForm()
         {
             return (DockBar)this.SystemApplication.ActiveForm;
         }
 
-        public void IsActive(DockBar dockBar)
+        public void ActivateDockbar(DockBar dockBar)
         {
             dockBar.Activate();
         }

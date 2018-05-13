@@ -28,27 +28,54 @@
         /// </summary>
         private new void InitializeComponent()
         {
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            DevExpress.XtraCharts.XYDiagram xyDiagram1 = new DevExpress.XtraCharts.XYDiagram();
+            DevExpress.XtraCharts.Series series1 = new DevExpress.XtraCharts.Series();
+            this.chartControl1 = new Nest.Controls.Dev162.ChartControl();
+            this.gridWithPager1 = new Nest.Controls.Dev162.GridWithPager();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(series1)).BeginInit();
             this.SuspendLayout();
             // 
-            // simpleButton1
+            // chartControl1
             // 
-            this.simpleButton1.Location = new System.Drawing.Point(218, 94);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(75, 23);
-            this.simpleButton1.TabIndex = 9;
-            this.simpleButton1.Text = "simpleButton1";
-            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
+            this.chartControl1.DataBindings = null;
+            xyDiagram1.AxisX.VisibleInPanesSerializable = "-1";
+            xyDiagram1.AxisY.VisibleInPanesSerializable = "-1";
+            this.chartControl1.Diagram = xyDiagram1;
+            this.chartControl1.Legend.Name = "Default Legend";
+            this.chartControl1.Location = new System.Drawing.Point(12, 1);
+            this.chartControl1.Name = "chartControl1";
+            series1.Name = "Series 1";
+            this.chartControl1.SeriesSerializable = new DevExpress.XtraCharts.Series[] {
+        series1};
+            this.chartControl1.Size = new System.Drawing.Size(281, 164);
+            this.chartControl1.TabIndex = 9;
+            // 
+            // gridWithPager1
+            // 
+            this.gridWithPager1.IsRun = false;
+            this.gridWithPager1.Location = new System.Drawing.Point(106, 80);
+            this.gridWithPager1.Name = "gridWithPager1";
+            this.gridWithPager1.PageIndex = 1;
+            this.gridWithPager1.PageSize = 20;
+            this.gridWithPager1.RecordCount = 0;
+            this.gridWithPager1.Size = new System.Drawing.Size(819, 394);
+            this.gridWithPager1.TabIndex = 10;
             // 
             // Test1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(506, 279);
-            this.Controls.Add(this.simpleButton1);
+            this.ClientSize = new System.Drawing.Size(937, 486);
+            this.Controls.Add(this.gridWithPager1);
+            this.Controls.Add(this.chartControl1);
             this.Name = "Test1";
-            this.StatusState = "状态:就绪";
+            this.StatusState = "状态：状态就绪";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(series1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -56,6 +83,7 @@
 
         #endregion
 
-        private DevExpress.XtraEditors.SimpleButton simpleButton1;
+        private Controls.Dev162.ChartControl chartControl1;
+        private Controls.Dev162.GridWithPager gridWithPager1;
     }
 }

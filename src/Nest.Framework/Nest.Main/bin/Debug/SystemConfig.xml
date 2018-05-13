@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<SystemConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SysInfo>
-    <name>tetse</name>
-    <ver>123</ver>
+    <Name>xxxx管理系统</Name>
+    <Ver>1.1.0101</Ver>
   </SysInfo>
   <DbInfo>
-    <type>mssql</type>
-    <server>24423</server>
-    <port>243</port>
-    <uid>sdff</uid>
-    <pwd>asdfd</pwd>
-    <dbname>sdfd</dbname>
+    <Type>mssql</Type>
+    <Server>dKQT0Mvjp3Io89It8yrM_w==</Server>
+    <Port>uVq1fQGfH4xTUfTtAaOKuA==</Port>
+    <Uid>8dFtuZKeOxHNPwtSQ1P6HA==</Uid>
+    <Pwd>GJXE7oXbhS47A7Df4npqAw==</Pwd>
+    <DbName>hy</DbName>
   </DbInfo>
-</SystemConfig>
+</Root>

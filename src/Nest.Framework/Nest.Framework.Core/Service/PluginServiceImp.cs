@@ -121,7 +121,8 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                //throw new Exception("Nest.Framework.Core,PluginServiceImp.UsePlugin: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginServiceImp.UsePlugin：" + ex.Message);
             }
             return result;
         }
@@ -150,13 +151,14 @@ namespace Nest.Framework.Core
                 }
                 if (!flag)
                 {
-                    MessageBox.Show("Not Found the Plugin");
+                    throw new Exception("Not Found the Plugin");
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
                 flag = false;
+                //throw new Exception("Nest.Framework.Core,PluginServiceImp.LoadPlugin: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginServiceImp.LoadPlugin：" + ex.Message);
             }
             return flag;
         }
@@ -179,7 +181,8 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                //throw new Exception("Nest.Framework.Core,PluginServiceImp.UnLoadPlugin: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginServiceImp.UnLoadPlugin：" + ex.Message);
             }
             result = flag;
             return result;
@@ -196,7 +199,8 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                //throw new Exception("Nest.Framework.Core,PluginServiceImp.UnLoadPlugin: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginServiceImp.UnLoadPlugin：" + ex.Message);
             }
             return result;
         }
@@ -217,8 +221,9 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
                 result = false;
+                //throw new Exception("Nest.Framework.Core,PluginServiceImp.LoadPlugin: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginServiceImp.LoadPlugin：" + ex.Message);
             }
             return result;
         }
@@ -242,9 +247,9 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
                 result = false;
-                return result;
+                //throw new Exception("Nest.Framework.Core,PluginServiceImp.LoadPlugin: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginServiceImp.LoadPlugin：" + ex.Message);
             }
             result = flag;
             return result;
@@ -269,7 +274,8 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                //throw new Exception("Nest.Framework.Core,PluginServiceImp.LoadAllPlugin: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginServiceImp.LoadAllPlugin：" + ex.Message);
             }
         }
 

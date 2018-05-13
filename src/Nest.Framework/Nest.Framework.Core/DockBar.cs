@@ -1,7 +1,6 @@
 ﻿using DevExpress.XtraBars;
 using DevExpress.XtraEditors;
 using DevExpress.XtraEditors.Repository;
-using DevExpress.XtraGrid.Views.Grid.ViewInfo;
 using System;
 using System.Threading;
 using System.Windows.Forms;
@@ -179,7 +178,7 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                throw new Exception("DockBar.GetDataSource：" + ex.Message);
             }
         }
 
@@ -232,7 +231,7 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                throw new Exception("DockBar.RunGetData：" + ex.Message);
             }
         }
 

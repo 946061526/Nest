@@ -130,7 +130,8 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                //throw new Exception("Nest.Framework.Core,PluginInfo.DoInvoke: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginInfo.DoInvoke：" + ex.Message);
             }
         }
 
@@ -143,7 +144,8 @@ namespace Nest.Framework.Core
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                //throw new Exception("Nest.Framework.Core,PluginInfo.DoInvoke: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginInfo.DoInvoke：" + ex.Message);
             }
         }
 
@@ -158,8 +160,10 @@ namespace Nest.Framework.Core
                 MethodInfo method = this.type.GetMethod(this.methodName);
                 method.Invoke(this.plugin, parameters);
             }
-            catch
+            catch (Exception ex)
             {
+                //throw new Exception("Nest.Framework.Core,PluginInfo.DoInvoke: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Nest.Framework.Core,PluginInfo.DoInvoke：" + ex.Message);
             }
         }
     }

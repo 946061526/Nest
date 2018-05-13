@@ -22,14 +22,13 @@ namespace Nest.Main
 
             DevExpress.UserSkins.BonusSkins.Register();
             DevExpress.Skins.SkinManager.EnableFormSkins();
+            //系统界面风格：
+            DevExpress.LookAndFeel.UserLookAndFeel.Default.SetSkinStyle("Office 2007 Blue");
 
             _DockService = new DockBarServiceImp(this);
             _PluginService = new PluginServiceImp(this);
             _ServiceContainer.AddService(typeof(IDockBarService), _DockService);
             _ServiceContainer.AddService(typeof(IPluginService), _PluginService);
-
-            //系统界面风格：
-            DevExpress.LookAndFeel.UserLookAndFeel.Default.SetSkinStyle("Office 2007 Blue");
 
             //初始化Bar
             new BarFactroy(this);
@@ -861,7 +860,7 @@ namespace Nest.Main
 
         private void barButtonItem7_ItemClick(object sender, ItemClickEventArgs e)
         {
-            MenuInit("测试1", "Nest.Framework.Test.UI.dll", "Nest.Framework.Test.UI.Test1");
+            MenuInit("Test.UI.Test1", "Nest.Framework.Test.UI.dll", "Nest.Framework.Test.UI.Test1");
         }
     }
 }

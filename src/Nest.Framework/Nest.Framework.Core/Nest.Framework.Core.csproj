@@ -73,7 +73,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BarFactroy.cs" />
+    <Compile Include="Service\BarFactroy.cs" />
     <Compile Include="DockBar.cs">
       <SubType>Form</SubType>
     </Compile>
